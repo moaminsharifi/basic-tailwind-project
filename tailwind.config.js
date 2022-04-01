@@ -1,6 +1,5 @@
 module.exports = {
-    content: ["public/index.html", "post.html", 'public/index copy.html'],
-  
+    content: ["public/index.html"],
     theme: {
       extend: {
         zIndex: {
